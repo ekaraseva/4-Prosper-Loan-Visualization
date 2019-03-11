@@ -1,14 +1,23 @@
-# Prosper Loan Data
-## by E.Karaseva
+# Prosper Loan Data - Visualization
+This project was completed as part of Udacity's Data Analyst Nanodegree certification.
 
 
 ## Dataset
-
 Prosper Marketplace is America's first peer-to-peer lending marketplace, with over 7 billion USD in funded loans. Borrowers request personal loans on Prosper and investors (individual or institutional) can fund anywhere from 2,000 USD to 35,000 USD per loan request. Investors can consider borrowers’ credit scores, ratings, and histories and the category of the loan. Prosper handles the servicing of the loan and collects and distributes borrower payments and interest back to the loan investors. [ref. https://en.wikipedia.org/wiki/Prosper_Marketplace]
 
 The data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others.
 
 Details with regards to variables can be found here: https://docs.google.com/spreadsheet/ccc?key=0AllIqIyvWZdadDd5NTlqZ1pBMHlsUjdrOTZHaVBuSlE&usp=sharing and here: https://www.prosper.com/Downloads/Services/Documentation/ProsperAPI_Objects_Details.html
+
+## Getting Started
+- Clone or download the repository.
+
+### Prerequisites
+- Python
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
 
 ## Summary of Findings
 
