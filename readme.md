@@ -10,7 +10,9 @@ The data set contains 113,937 loans with 81 variables on each loan, including lo
 Details with regards to variables can be found here: https://docs.google.com/spreadsheet/ccc?key=0AllIqIyvWZdadDd5NTlqZ1pBMHlsUjdrOTZHaVBuSlE&usp=sharing and here: https://www.prosper.com/Downloads/Services/Documentation/ProsperAPI_Objects_Details.html
 
 ## Getting Started
-- Clone or download the repository.
+- Clone or download the repository,
+- Dowload the data ['Prosper Loan data'] (https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv)
+
 
 ### Prerequisites
 - Python
