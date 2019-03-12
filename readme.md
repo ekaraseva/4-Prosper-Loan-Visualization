@@ -19,7 +19,7 @@ Details with regards to variables can be found here: https://docs.google.com/spr
 
 
 ### Prerequisites
-- Python
+- Python (3.6)
 - Pandas
 - Numpy
 - Matplotlib
